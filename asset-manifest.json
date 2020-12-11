@@ -1,13 +1,13 @@
 {
   "main.css": "/mybio/static/css/main.c70d74a1.chunk.css",
-  "main.js": "/mybio/static/js/main.3f9de02d.chunk.js",
-  "main.js.map": "/mybio/static/js/main.3f9de02d.chunk.js.map",
+  "main.js": "/mybio/static/js/main.0a92d2d9.chunk.js",
+  "main.js.map": "/mybio/static/js/main.0a92d2d9.chunk.js.map",
   "runtime~main.js": "/mybio/static/js/runtime~main.aaf2d35a.js",
   "runtime~main.js.map": "/mybio/static/js/runtime~main.aaf2d35a.js.map",
   "static/js/2.1cf4b44a.chunk.js": "/mybio/static/js/2.1cf4b44a.chunk.js",
   "static/js/2.1cf4b44a.chunk.js.map": "/mybio/static/js/2.1cf4b44a.chunk.js.map",
   "index.html": "/mybio/index.html",
-  "precache-manifest.83e48738366c45f8fbbc945be2185f30.js": "/mybio/precache-manifest.83e48738366c45f8fbbc945be2185f30.js",
+  "precache-manifest.4c9874c2cb7dbd751c0aa958890dfb1b.js": "/mybio/precache-manifest.4c9874c2cb7dbd751c0aa958890dfb1b.js",
   "service-worker.js": "/mybio/service-worker.js",
   "static/css/main.c70d74a1.chunk.css.map": "/mybio/static/css/main.c70d74a1.chunk.css.map"
 }

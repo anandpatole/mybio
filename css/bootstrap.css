@@ -3572,18 +3572,7 @@ tbody.collapse.in {
 .tab-content > .active {
   display: block;
 }
-.alogo{
-  display: inline-block;
-  width: 100%;
-}
 
-.aicon, .atext {
-  display:inline;
-}
-
-.atext{
-  margin-left:10px;
-}
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
   border-top-right-radius: 0;
