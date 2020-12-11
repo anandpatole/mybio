@@ -1034,18 +1034,7 @@ body.offcanvas {
 .btn-load-more {
   width: 100%; }
 
-  .alogo{
-    display: inline-block;
-    width: 100%;
-}
-
-.aicon, .atext {
-    display:inline;
-}
-
-.atext{
-    margin-left:10px;
-}
+  
 
 #colorlib-counter {
   position: relative;
