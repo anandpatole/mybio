@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                       
-                       <h2 >Senior Android Developer at Mahindra & Mahindra Ltd <span> Dec 2018-present</span></h2> 
+                       <h2 >Senior Android Developer at Mahindra & Mahindra Ltd <span> Nov 2018-present</span></h2> 
                        <img alt="" src='images/neosoft.png' width='60' height='30'></img>
                         <p>I joined NeoSoft technologies  as a Senior Android-Developer in the Mobility team. My major part of the work has been into the field of creating Android Application for Mahindra & Mahindra Client</p>
                        
